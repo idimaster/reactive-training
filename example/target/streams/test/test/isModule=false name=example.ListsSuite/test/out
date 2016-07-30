@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mListsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is two[0m[0m
+[0m[[0minfo[0m] [0m[32m- intNotZero throws an exception if its argument is 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of a few numbers2[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of a few numbers2[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of a empty set[0m[0m
+[0m[[0minfo[0m] [0m[32m- max NoSuchElementException for empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of one element[0m[0m
